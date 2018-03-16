@@ -58,7 +58,7 @@
               <div class="row text-center last-row">
                 <div class="col">
                   <Grform 
-                    campaign_token="1"
+                    campaign_token="nloVc"
                   />
                 </div>
               </div>
@@ -165,7 +165,7 @@
               <div class="row text-center last-row">
                 <div class="col">
                   <Grform 
-                    campaign_token="1"
+                    campaign_token="nloVc"
                   />
                 </div>
               </div>
@@ -210,7 +210,7 @@
               <div class="row text-center last-row">
                 <div class="col">
                   <Grform 
-                    campaign_token="1"
+                    campaign_token="nloVc"
                   />
                 </div>
               </div>
@@ -255,7 +255,7 @@
               <div class="row text-center last-row">
                 <div class="col">
                   <Grform 
-                    campaign_token="1"
+                    campaign_token="nloVc"
                   />
                 </div>
               </div>
@@ -300,7 +300,7 @@
               <div class="row text-center last-row">
                 <div class="col">
                   <Grform 
-                    campaign_token="1"
+                    campaign_token="nloVc"
                   />
                 </div>
               </div>
@@ -346,7 +346,7 @@
               <div class="row text-center">
                 <div class="col">
                   <Grform 
-                    campaign_token="1"
+                    campaign_token="nloVc"
                   />
                 </div>
               </div>
@@ -379,7 +379,7 @@
                 WMI_DESCRIPTION="iTeam"
                 WMI_SUCCESS_URL="https://iteam.ru/promo/personaltraining"
                 WMI_FAIL_URL="https://iteam.ru/promo/personaltraining"
-                campaign_token="2"
+                campaign_token="nlopl"
                 product_name="ПАКЕТ «ЛАЙТ»"
               />
             </div>
@@ -401,7 +401,7 @@
                 WMI_DESCRIPTION="iTeam"
                 WMI_SUCCESS_URL="https://iteam.ru/promo/personaltraining"
                 WMI_FAIL_URL="https://iteam.ru/promo/personaltraining"
-                campaign_token="3"
+                campaign_token="nloTz"
                 product_name="ПАКЕТ «БАЗОВЫЙ»"
               />
             </div>
