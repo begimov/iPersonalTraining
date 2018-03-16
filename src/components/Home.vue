@@ -12,10 +12,10 @@
 
     <div class="container">
       <div class="row last-row mt-5">
-        <div class="col">
+        <div class="col-lg-4">
           <h2>Если Вам необходимо</h2>
         </div>
-        <div class="col">
+        <div class="col-lg-8">
           <ul>
             <li>Восполнить недостаток знаний в&nbsp;области управления</li>
             <li>Посоветоваться с&nbsp;авторитетным экспертом-управленцем</li>
@@ -212,7 +212,7 @@
       <div class="row text-center last-row">
         <div class="col-lg-6 offset-lg-3">
           <h5>Артем Агабеков, собственник компании &laquo;Фабрика Окон&raquo;</h5>
-          <p><a href="http://neofood.de/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_neofood.png" class="img-fluid rounded"></a></p>
+          <!-- <p><a href="http://neofood.de/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_neofood.png" class="img-fluid rounded"></a></p> -->
           <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/U4QFO0ILnmE" frameborder="0" allowfullscreen></iframe>
           </div>
@@ -362,12 +362,97 @@
 
       <div class="row text-center">
         <div class="col">
-          <h2>Отзывы наших участников:</h2>
+          <h2>Отзывы участников обучающих мероприятий:</h2>
         </div>
       </div>
-      <div class="row text-center last-row">
-        <div class="col">
-          //
+      <div class="row py-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/male_64.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Троянов Александр ООО ПСФ &laquo;Новые технологии&raquo;</h4>
+          <p>В&nbsp;нашей компании уровень профессионализма сотрудников, их&nbsp;практических навыков значительно ниже требуемой учредителем, из-за чего не&nbsp;выполняются эффективно производственные задачи. Поэтому обучение с&nbsp;помощью проведения мастер-проектов нам подходит, так как обучение проходит без отрыва от&nbsp;повседневной работы и&nbsp;с&nbsp;практическим результатом для компании. Важно только правильно организовать мастер-проект, определить куратора проекта, сформировать рабочую группу проекта.</p>
+        </div>
+      </div>
+      <div class="row py-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/zubaha.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Валерий Зубаха, директор департамента бизнес процессов, &laquo;Группа компаний BSS&raquo;</h4>
+          <p>В&nbsp;нашей компании (сфера ИТ-бизнеса) работают высококвалифицированные профессионалы в&nbsp;области программирования, но&nbsp;слабо представляющие, что такое стратегическое управление, процессный подход к&nbsp;управлению, и&nbsp;мы&nbsp;вынуждены сами проводить обучение внутри компании. Подход, предложенный iTeam, очень полезен.</p>
+        </div>
+      </div>
+      <div class="row py-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/kirillin.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Сергей Викторович Кириллин, руководитель отдела продаж ООО &laquo;Миг-Плюс&raquo;</h4>
+          <p>Большинство инструментов после проработки и&nbsp;оптимизации под текущие процессы и&nbsp;задачи будут использоваться в&nbsp;планировании на&nbsp;2018&nbsp;год. Спасибо.</p>
+        </div>
+      </div>
+      <div class="row py-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/volodin.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Владимир Володин, &laquo;Новые технологии&raquo;</h4>
+          <p>Я&nbsp;понял, с&nbsp;чего начать, как последовательно фрагментировать &laquo;чего хочу&raquo; в&nbsp;последовательность действий, как превратить результаты действий в&nbsp;измеряемые величины, как взаимодействовать с&nbsp;сотрудниками, чтобы они вместе с&nbsp;вами участвовали в&nbsp;этом процессе. Но&nbsp;самое главное семинар окончательно утвердил меня в&nbsp;понимании необходимости начинать с&nbsp;себя. За&nbsp;это отдельное большое спасибо.</p>
+        </div>
+      </div>
+      <div class="row py-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/viktoriya_nikolaeva.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Виктория Николаева</h4>
+          <p>Рекомендую всем, кто столкнулся с&nbsp;проблемами изменений в&nbsp;организации, кто хочет улучшить бизнес-процессы и&nbsp;повышать конкурентоспособность своих компаний! Весь материал излагается очень доступно, и&nbsp;все предлагаемые процессы настолько близки к&nbsp;реальности, что только очень ленивый не&nbsp;сможет это усвоить! Возможно, это будет полезно даже тем, кто считает, что все налажено и&nbsp;двигается само собой.</p>
+        </div>
+      </div>
+      <div class="row py-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/ulbosyn_nassambekova.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Нысамбекова Улбосын Арыстанбековна, консультант ТОО &laquo;Интерсерт Консалтинг Центр Азия&raquo;</h4>
+          <p>Все потрясает&nbsp;&mdash; подходы, процессы коммуникации с&nbsp;потребителями, сайт в&nbsp;целом. Действительно, ваша компания соответствует тому, что &laquo;пропагандирует&raquo;. В&nbsp;таких случаях и&nbsp;реклама не&nbsp;нужна. Многие консалтинговые компании скачут с&nbsp;&laquo;гребня на&nbsp;гребень&raquo;, осваивают все новые и&nbsp;новые управленческие технологии, стандарты, чтобы обскакать конкурентов. А&nbsp;вы&nbsp;конкурируете не&nbsp;количеством, а&nbsp;качеством. Практическая интерпретация технологий с&nbsp;тем, чтобы они перестали быть, как говорит Александр &laquo;еще одной непонятной штукой&raquo;, стали понятными и&nbsp;востребованными&nbsp;&mdash; уникальный продукт!</p>
+        </div>
+      </div>
+      <div class="row py-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/macvey.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Сергей Мацвей, генеральный директор &laquo;МАГИСТРАЛЬЭНЕРГО&raquo; г. Калуга</h4>
+          <p>В&nbsp;результате есть четкое понимание и&nbsp;даже план действий что нужно делать, чтобы вывести компанию в&nbsp;лидеры, сделать ее&nbsp;более эффективной и&nbsp;прибыльной!</p>
+        </div>
+      </div>
+      <div class="row py-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/temmo.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Александр Теммо, Менеджер, консультант &laquo;Intense Koolitus&raquo;</h4>
+          <p>Стали понятны корни проблем, с&nbsp;которыми приходилось сталкиваться самому и&nbsp;прояснилась логика процесса управления.</p>
+        </div>
+      </div>
+      <div class="row py-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/female_64.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Маяковская Валентина Владимировна, главный бухгалтер ТРК &laquo;Надежда&raquo;</h4>
+          <p>Понятная и&nbsp;связанная логика для понимания деятельности организации. Отличная связка концепций менеджмента, поставленных ими вопросов и&nbsp;методов исследования. И&nbsp;как результат&nbsp;&mdash; структурированный обзор проблем, стоящих перед организацией, в&nbsp;частности связанных с&nbsp;управлением, для совершенствования. Наконец все пазлы в&nbsp;голове сложились. Осталось закрепить применением. В&nbsp;работе буду использовать алгоритм анализа деятельности для понимания текущей ситуации и&nbsp;поиска разрывов между желаемым и&nbsp;достигнутым. Всегда при формулировании проблем бежала вперед, и&nbsp;хотелось назвать сразу ключевую, а&nbsp;вдруг не&nbsp;проблема, а&nbsp;симптом более глубокой... А&nbsp;тут все понятно и&nbsp;без придумывания&nbsp;&mdash; пишем все, накидываем дерево, выбираем ключевые.</p>
+        </div>
+      </div>
+      <div class="row last-row pt-3">
+        <div class="col-md-2 text-right">
+          <img src="https://iteam.ru/landing/template/img/female_64.jpg" class="img-fluid rounded-circle">
+        </div>
+        <div class="col-md-10">
+          <h4>Ирина Ковалева</h4>
+          <p>Опираясь на&nbsp;огромный объем информации, можно не&nbsp;только попытаться поставить &laquo;диагноз&raquo; состоянию бизнеса, но&nbsp;и&nbsp;даже просто ориентируясь на&nbsp;перечень приведенных факторов, оценить, увидеть наличие или отсутствие какой-либо позиции, важной для эффективного ведения бизнеса. Бесценно наличие конкретных инструментов для проведения собственно диагностики (методы исследований, задачи) по&nbsp;каждому бизнес-параметру. &laquo;Бери и&nbsp;делай&raquo;&nbsp;&mdash; такой подход делает мастер-класс практичным, самостоятельным инструментарием. Порой не&nbsp;хватает именно такого формата даже на&nbsp;тренингах. Поскольку я&nbsp;как раз на&nbsp;этапе оценки состояния действующего бизнеса (меня пригласили в&nbsp;роли кризис-менеджера), я&nbsp;постараюсь применить в&nbsp;целом систему факторов для диагностики. По&nbsp;мере выявления проблемных зон, а&nbsp;я&nbsp;подозреваю, что их&nbsp;будет по&nbsp;каждому фактору не&nbsp;одна, мне придется расставить приоритеты для выравнивания ситуации. Уже сейчас я&nbsp;вижу, как можно применить и&nbsp;в&nbsp;дальнейшем, после текущей оценки состояния компании, приведенные технологии и&nbsp;регламенты.</p>
         </div>
       </div>
 
