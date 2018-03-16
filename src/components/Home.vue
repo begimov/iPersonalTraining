@@ -5,41 +5,61 @@
         <div class="row">
           <div class="col"><img src="../assets/logo.png" class="logo" width="110"></div>
         </div>
-        <!-- <p class="header-title lead">МАСТЕР-ПРОЕКТ</p> -->
         <h1 class="display-3 d-none d-sm-block text-uppercase"><strong>Персональное обучение и&nbsp;коучинг руководителей</strong></h1>
         <h1 class="display-5 d-sm-none text-uppercase">Персональное обучение и&nbsp;коучинг руководителей</h1>
-        <!-- <p class="lead header-date">14 мастер-классов + 50 шаблонов + консультации!</p> -->
-        <!-- <p class="lead"><span class="badge badge-light">Старт 29&nbsp;марта 2018 года</span></p> -->
-        <!-- <a href="#" class="btn btn-danger btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Участвовать</a> -->
       </div>
     </div>
 
     <div class="container">
+      <div class="row last-row mt-5">
+        <div class="col">
+          <h2>Если Вам необходимо</h2>
+        </div>
+        <div class="col">
+          <ul>
+            <li>Восполнить недостаток знаний в&nbsp;области управления</li>
+            <li>Посоветоваться с&nbsp;авторитетным экспертом-управленцем</li>
+            <li>Поработать с опытным наставником над сложной задачей</li>
+            <li>Найти ключ к&nbsp;решению застарелых проблем компании</li>
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <h2>Мы&nbsp;предлагаем Вам помощь Александра Кочнева, управляющего партнера консалтинговой компании iTeam.</h2>
+        </div>
+      </div>
+      <div class="row last-row mt-3">
+        <div class="col-md-3">
+          <img class="img-fluid" src="../assets/kochnev.jpg">
+        </div>
+        <div class="col-md-9">
+          <ul>
+            <li>Наставник и&nbsp;коуч собственников компаний с&nbsp;2002 года</li>
+            <li>Руководитель 200+ консалтинговых проектов</li>
+            <li>Автор 50+&nbsp;мастер-классов и&nbsp;программ обучения управленцев</li>
+            <li>Ведущий семинаров и&nbsp;бизнес-тренингов, на&nbsp;которых обучились 50+&nbsp;тысяч управленцев</li>
+            <li>Автор книги &laquo;Как найти миссию компании&raquo;</li>
+            <li>Автор 100+ статей об&nbsp;управлении компаниями</li>
+            <li>Создатель системы &laquo;Русский Менеджмент&raquo;&nbsp;&mdash; комплекса знаний и&nbsp;технологий управления компаниями</li>
+          </ul>
+        </div>
+      </div>
       <div class="row text-center">
-        <div class="col" style="margin-top:30px">
-          <h2>СКАЧАТЬ ПОДРОБНУЮ ПРОГРАММУ</h2>
+        <div class="col">
+          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col">
+          <Grform 
+            campaign_token="1"
+          />
         </div>
       </div>
       <div class="row last-row text-center">
         <div class="col">
-          <Grform 
-            campaign_token="pugf"
-          />
-        </div>
-      </div>
-      <div class="row text-center">
-        <div class="col" style="margin-top:30px">
-          <h2>МАСТЕР-ПРОЕКТ ЭТО:</h2>
-        </div>
-      </div>
-      <div class="row last-row">
-        <div class="col-lg-4 mp-is-block">&nbsp;</div>
-        <div class="col-lg-8 mt-3 mt-lg-0">
-          <ul>
-            <li>Новая форма обучения и&nbsp;консультирования, в&nbsp;котором участвует вся управленческая команда.</li>
-            <li>В&nbsp;течение 4&nbsp;месяцев шаг за&nbsp;шагом под руководством консультанта-наставника вы&nbsp;проходите все этапы внедрения процессного управления в&nbsp;вашей компании.</li>
-            <li>Результат мастер-проекта&nbsp;&mdash; работающая система управления процессами и&nbsp;обученные сотрудники, способные самостоятельно вести работу по&nbsp;совершенствованию процессов.</li>
-          </ul>
+          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
         </div>
       </div>
     </div>
@@ -716,16 +736,6 @@
           </div>
         </div>
         
-      </div>
-
-      <div class="row last-row" style="margin-top:80px; font-family: 'Playfair Display', serif;">
-        <div class="col-md-3" style="margin-bottom:20px;">
-          <img class="img-fluid" src="../assets/kochnev.jpg">
-        </div>
-        <div class="col-md-9">
-          <h3 style="margin-bottom:20px;">Ведущий наставник проекта&nbsp;&mdash; управляющий партнер iTeam Александр Кочнев. 15&nbsp;лет помогает компаниям выйти на&nbsp;новый уровень.</h3>
-          <p><img class="img-fluid" src="../assets/client_logos.jpg"></p>
-        </div>
       </div>
 
       <div class="row text-center">
