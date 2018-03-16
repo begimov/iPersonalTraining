@@ -164,26 +164,158 @@
     </div>
 
     <div class="container">
-      <div class="row text-center">
-        <div class="col">
-          <h2></h2>
-        </div>
-      </div>
       <div class="row last-row">
         <div class="col-lg-8">
-          <ul>
-            <li></li>
-          </ul>
-          <p></p>
+          <p>У&nbsp;большинства руководителей существует острая необходимость в&nbsp;повышении управленческой квалификации, но&nbsp;нет времени на&nbsp;обучение.</p>
+          <p>Мы&nbsp;решаем эту проблему крайне эффективно. Для этого мы&nbsp;вместе с&nbsp;руководителем определяем приоритетные направления индивидуального обучения и&nbsp;составляем программу. Программа ориентирована прежде всего на&nbsp;решение практических задач, стоящих перед руководителем в&nbsp;его работе.</p>
+          <p>Обучение проходит в&nbsp;форме бесед в&nbsp;очной форме или в скайпе, просмотре специально отобранных видеоматериалов и&nbsp;чтении подборки статей. Результатом изучения каждой темы являются выводы о практическом применении полученных знаний и&nbsp;план внедрения в&nbsp;деятельность руководителя новых методов и&nbsp;технологий. В&nbsp;ходе практического освоения новых знаний мы&nbsp;проводим обсуждение результатов&nbsp;и, по мере необходимости, вносим корректировки.</p>
         </div>
         <div class="col-lg-4 mt-3 mt-lg-0 mp-is-usefull-block">&nbsp;</div>
+      </div>
+      <div class="row text-center last-row">
+        <div class="col-lg-6 offset-lg-3">
+          <h5>Александр Соловьев, собственник компании &laquo;Неофуд&raquo;</h5>
+          <p><a href="http://neofood.de/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_neofood.png" class="img-fluid rounded"></a></p>
+          <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/U4QFO0ILnmE" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col">
+          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+        </div>
+      </div>
+      <div class="row text-center last-row">
+        <div class="col">
+          <Grform 
+            campaign_token="1"
+          />
+        </div>
+      </div>
+      <div class="row last-row text-center">
+        <div class="col">
+          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row last-row">
+        <div class="col-lg-4 mt-3 mt-lg-0 mp-is-usefull-block">&nbsp;</div>
+        <div class="col-lg-8">
+          <p>Нередко собственники компаний сталкиваются с&nbsp;ситуациями, требующими выработки стратегических решений, когда нужно посоветоваться с&nbsp;опытным экспертом.</p>
+          <p>Мой опыт дает возможность рассмотреть проблему в различных проекциях и&nbsp;дать примеры ее&nbsp;решения, полученные в&nbsp;ходе работы со&nbsp;многими компаниями различных отраслей.</p>
+          <p>Стратегические решения являются наиболее трудными, поскольку требуют отказаться от&nbsp;привычных подходов и сделать шаг в&nbsp;неизвестное. В&nbsp;такие моменты экспертная поддержка становится наиболее ценной и&nbsp;наиболее востребованной.</p>
+        </div>
+      </div>
+      <div class="row text-center last-row">
+        <div class="col-lg-6 offset-lg-3">
+          <h5>Артем Агабеков, собственник компании &laquo;Фабрика Окон&raquo;</h5>
+          <p><a href="http://neofood.de/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_neofood.png" class="img-fluid rounded"></a></p>
+          <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/U4QFO0ILnmE" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col">
+          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+        </div>
+      </div>
+      <div class="row text-center last-row">
+        <div class="col">
+          <Grform 
+            campaign_token="1"
+          />
+        </div>
+      </div>
+      <div class="row last-row text-center">
+        <div class="col">
+          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row last-row">
+        <div class="col-lg-8">
+          <p>Руководители, решившиеся на&nbsp;проведение серьезных изменений в&nbsp;организационной структуре и&nbsp;рабочих процессах компании, встречают на&nbsp;своем пути множество препятствий и&nbsp;нестандартных ситуаций.</p>
+          <p>В&nbsp;таких ситуациях я&nbsp;выступаю &laquo;проводником&raquo; по организационным изменениям. Мы&nbsp;с&nbsp;руководителем компании разрабатываем план преобразований, тщательно продумываем каждый шаг его реализации, обсуждаем результаты, вносим коррективы.</p>
+          <p>Такая форма наставничества помогает многократно снизить риски подобных проектов и&nbsp;приобрести ценные навыки в&nbsp;решении задач организационного развития.</p>
+        </div>
+        <div class="col-lg-4 mt-3 mt-lg-0 mp-is-usefull-block">&nbsp;</div>
+      </div>
+      <div class="row text-center last-row">
+        <div class="col-lg-6 offset-lg-3">
+          <h5>Яна Ходак, &laquo;МК&nbsp;Практик&raquo;</h5>
+          <p><a href="http://practicmed.ru/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_mkpraktik.png" class="img-fluid rounded"></a></p>
+          <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/rlzpDK1my58" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col">
+          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+        </div>
+      </div>
+      <div class="row text-center last-row">
+        <div class="col">
+          <Grform 
+            campaign_token="1"
+          />
+        </div>
+      </div>
+      <div class="row last-row text-center">
+        <div class="col">
+          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row last-row">
+        <div class="col-lg-4 mt-3 mt-lg-0 mp-is-usefull-block">&nbsp;</div>
+        <div class="col-lg-8">
+          <p>В&nbsp;работе каждого руководителя случаются ситуации, когда &laquo;все идет не&nbsp;так&raquo;: показатели компании не&nbsp;радуют, происходит непонятное &laquo;торможение&raquo;, теряется управляемость, нарастает груз нерешенных проблем.</p>
+          <p>Чтобы распутать этот &laquo;узел&raquo;, найти ниточку, которая выведет компанию из&nbsp;тупика на&nbsp;путь динамичного развития, нужен свежий взгляд, дельный совет опытного управленца.</p>
+          <p>В&nbsp;таких ситуациях мы&nbsp;с&nbsp;вместе с&nbsp;собственником и&nbsp;его командой подробно рассматриваем все стороны проблемной ситуации, находим ключевые звенья, на&nbsp;которые необходимо воздействовать в&nbsp;первую очередь, и&nbsp;вырабатываем план решения приоритетных задач.</p>
+          <p>В&nbsp;ходе реализации плана я&nbsp;постоянно &laquo;держу руку на&nbsp;пульсе&raquo; компании и&nbsp;обсуждаю с&nbsp;собственником полученные результаты. На&nbsp;каждом шаге мы&nbsp;переопределяем приоритеты и&nbsp;намечаем дальнейшие действия.</p>
+        </div>
+      </div>
+      <div class="row text-center last-row">
+        <div class="col-lg-6 offset-lg-3">
+          <h5>Геннадий Черкасов, &laquo;Миг Плюс&raquo;</h5>
+          <p><a href="http://migplus.ru/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_migplus.png" class="img-fluid rounded"></a></p>
+          <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/C2MVqTRj40w" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col">
+          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+        </div>
+      </div>
+      <div class="row text-center last-row">
+        <div class="col">
+          <Grform 
+            campaign_token="1"
+          />
+        </div>
+      </div>
+      <div class="row last-row text-center">
+        <div class="col">
+          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+        </div>
       </div>
     </div>
 
     <div class="container">
       <div class="row text-center" ref="join-block">
         <div class="col" style="margin-top:30px">
-          <h2>Я участвую!</h2>
+          <h2>Заказать платное обучение</h2>
         </div>
       </div>
       <div class="row last-row text-center">
@@ -239,61 +371,7 @@
             </div>
           </div>
         </div>
-
-        <div class="col-xl-3 col-md-6 mt-2">
-          <div class="card h-100">
-            <div class="card-header bg-danger text-light">
-              <span class="lead"><strong>ПАКЕТ &laquo;СУПЕР&raquo;</strong></span><br>
-              <span class="badge badge-warning" style="font-size: 0.8em;">Включает ПАКЕТ &laquo;БАЗОВЫЙ&raquo;</span><br>
-              <span class="lead"><strong>+</strong></span>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">10 рабочих сессий с Александром Кочневым по Skype.</li>
-              <li class="list-group-item">Рецензирование документов.</li>
-              <li class="list-group-item">Ответы на вопросы по e-mail и телефону. Онлайн-консультации.</li>
-            </ul>
-            <div class="card-body"></div>
-            <div class="card-footer bg-white border-top-0 pb-3">
-              <h2><span class="badge badge-primary">160&thinsp;000&nbsp;&#8381;</span></h2>
-              <Payment
-                WMI_PAYMENT_AMOUNT="160000"
-                WMI_DESCRIPTION="iTeam"
-                WMI_SUCCESS_URL="https://iteam.ru/promo/processes"
-                WMI_FAIL_URL="https://iteam.ru/promo/processes"
-                campaign_token="nlaKD"
-                product_name="ПАКЕТ «СУПЕР»"
-              />
-            </div>
-          </div>
-        </div>
-
-        <div class="col-xl-3 col-md-6 mt-2">
-          <div class="card h-100">
-            <div class="card-header bg-danger text-light">
-              <span class="lead"><strong>ПАКЕТ &laquo;ПРЕМИУМ&raquo;</strong></span><br>
-              <span class="badge badge-warning" style="font-size: 0.8em;">Включает ПАКЕТ &laquo;БАЗОВЫЙ&raquo;</span><br>
-              <span class="lead"><strong>+</strong></span>
-            </div>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item">3 очных стратегических сессий и 7 рабочих сессий с Александром Кочневым по Skype.</li>
-              <li class="list-group-item">Рецензирование документов.</li>
-              <li class="list-group-item">Ответы на вопросы по e-mail и телефону. Онлайн-консультации.</li>
-            </ul>
-            <div class="card-body"></div>
-            <div class="card-footer bg-white border-top-0 pb-3">
-              <h2><span class="badge badge-primary">800&thinsp;000&nbsp;&#8381;</span></h2>
-              <Payment
-                WMI_PAYMENT_AMOUNT="800000"
-                WMI_DESCRIPTION="iTeam"
-                WMI_SUCCESS_URL="https://iteam.ru/promo/processes"
-                WMI_FAIL_URL="https://iteam.ru/promo/processes"
-                campaign_token="nlaoj"
-                product_name="ПАКЕТ «ПРЕМИУМ»"
-              />
-            </div>
-          </div>
-        </div>
-        
+    
       </div>
 
       <div class="row text-center">
@@ -303,32 +381,16 @@
       </div>
       <div class="row text-center last-row">
         <div class="col-md-6">
-          <h5>Александр Красный, &laquo;ГаРус&raquo;</h5>
-            <p><a href="http://groupautorus.ru/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_garus.png" class="img-fluid rounded"></a></p>
-            <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/Rp4Jh-DP7is" frameborder="0" allowfullscreen></iframe>
-            </div>
+          //
         </div>
         <div class="col-md-6">
-          <h5>Александр Соловьев, &laquo;FIS&raquo;</h5>
-          <p><a href="http://neofood.de/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_neofood.png" class="img-fluid rounded"></a></p>
-          <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/U4QFO0ILnmE" frameborder="0" allowfullscreen></iframe>
-          </div>
+          //
         </div>
         <div class="col-md-6">
-          <h5>Геннадий Черкасов, &laquo;Миг Плюс&raquo;</h5>
-          <p><a href="http://migplus.ru/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_migplus.png" class="img-fluid rounded"></a></p>
-          <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/C2MVqTRj40w" frameborder="0" allowfullscreen></iframe>
-          </div>
+          //
         </div>
         <div class="col-md-6">
-          <h5>Яна Ходак, &laquo;МК&nbsp;Практик&raquo;</h5>
-          <p><a href="http://practicmed.ru/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_mkpraktik.png" class="img-fluid rounded"></a></p>
-          <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/rlzpDK1my58" frameborder="0" allowfullscreen></iframe>
-          </div>
+          //
         </div>
       </div>
 
