@@ -8,59 +8,67 @@
         <h1 class="header-title display-4 d-none d-sm-block text-uppercase"><strong>Персональное обучение и&nbsp;коучинг руководителей</strong></h1>
         <h1 class="display-5 d-sm-none text-uppercase">Персональное обучение и&nbsp;коучинг руководителей</h1>
         <a href="#" class="btn btn-danger btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать</a>
+        <div class="row mt-5">
+          <div class="col-lg-4">
+            <h2>Если Вам необходимо</h2>
+          </div>
+          <div class="col-lg-8">
+            <ul class="lead">
+              <li>Восполнить недостаток знаний в&nbsp;области управления</li>
+              <li>Посоветоваться с&nbsp;авторитетным экспертом-управленцем</li>
+              <li>Поработать с опытным наставником над сложной задачей</li>
+              <li>Найти ключ к&nbsp;решению застарелых проблем компании</li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
 
     <div class="container">
-      <div class="row last-row mt-5">
-        <div class="col-lg-4">
-          <h2>Если Вам необходимо</h2>
-        </div>
-        <div class="col-lg-8">
-          <ul>
-            <li>Восполнить недостаток знаний в&nbsp;области управления</li>
-            <li>Посоветоваться с&nbsp;авторитетным экспертом-управленцем</li>
-            <li>Поработать с опытным наставником над сложной задачей</li>
-            <li>Найти ключ к&nbsp;решению застарелых проблем компании</li>
-          </ul>
-        </div>
-      </div>
-      <div class="row">
+      <div class="row mt-5">
         <div class="col">
           <h2>Мы&nbsp;предлагаем Вам помощь Александра Кочнева, управляющего партнера консалтинговой компании iTeam.</h2>
         </div>
       </div>
       <div class="row last-row">
         <div class="col-md-3 mt-3">
-          <img class="img-fluid" src="../assets/kochnev.jpg">
+          <img class="img-fluid" src="https://iteam.ru/img/V2/rm_bg.jpg">
         </div>
-        <div class="col-md-9 mt-3">
-          <ul>
-            <li>Наставник и&nbsp;коуч собственников компаний с&nbsp;2002 года</li>
-            <li>Руководитель 200+ консалтинговых проектов</li>
-            <li>Автор 50+&nbsp;мастер-классов и&nbsp;программ обучения управленцев</li>
-            <li>Ведущий семинаров и&nbsp;бизнес-тренингов, на&nbsp;которых обучились 50+&nbsp;тысяч управленцев</li>
-            <li>Автор книги &laquo;Как найти миссию компании&raquo;</li>
-            <li>Автор 100+ статей об&nbsp;управлении компаниями</li>
-            <li>Создатель системы &laquo;Русский Менеджмент&raquo;&nbsp;&mdash; комплекса знаний и&nbsp;технологий управления компаниями</li>
-          </ul>
-        </div>
-      </div>
-      <div class="row text-center">
-        <div class="col">
-          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+        <div class="col-md-9 mt-3 align-self-center">
+            <ul>
+              <li>Наставник и&nbsp;коуч собственников компаний с&nbsp;2002 года</li>
+              <li>Руководитель 200+ консалтинговых проектов</li>
+              <li>Автор 50+&nbsp;мастер-классов и&nbsp;программ обучения управленцев</li>
+              <li>Ведущий семинаров и&nbsp;бизнес-тренингов, на&nbsp;которых обучились 50+&nbsp;тысяч управленцев</li>
+              <li>Автор книги &laquo;Как найти миссию компании&raquo;</li>
+              <li>Автор 100+ статей об&nbsp;управлении компаниями</li>
+              <li>Создатель системы &laquo;Русский Менеджмент&raquo;&nbsp;&mdash; комплекса знаний и&nbsp;технологий управления компаниями</li>
+            </ul>    
         </div>
       </div>
-      <div class="row text-center last-row">
+      <div class="row last-row">
         <div class="col">
-          <Grform 
-            campaign_token="1"
-          />
-        </div>
-      </div>
-      <div class="row last-row text-center">
-        <div class="col">
-          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+          <div class="card">
+            <div class="card-body">
+              <div class="row text-center">
+                <div class="col">
+                  <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+                </div>
+              </div>
+              <div class="row text-center last-row">
+                <div class="col">
+                  <Grform 
+                    campaign_token="1"
+                  />
+                </div>
+              </div>
+              <div class="row text-center">
+                <div class="col">
+                  <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -145,33 +153,41 @@
             </div>
         </div>
       </div>
-      <div class="row text-center">
+      <div class="row last-row">
         <div class="col">
-          <h2>Закажите бесплатную консультацию, и&nbsp;мы&nbsp;с&nbsp;Вами обсудим задачи, которые стоят перед Вами и&nbsp;вашей компанией, рассмотрим подходы к&nbsp;их&nbsp;решению и&nbsp;определим приемлемую для Вас форму сотрудничества.</h2>
-        </div>
-      </div>
-      <div class="row text-center last-row">
-        <div class="col">
-          <Grform 
-            campaign_token="1"
-          />
-        </div>
-      </div>
-      <div class="row last-row text-center">
-        <div class="col">
-          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+          <div class="card">
+            <div class="card-body">
+              <div class="row text-center">
+                <div class="col">
+                  <h2>Закажите бесплатную консультацию, <small>и&nbsp;мы&nbsp;с&nbsp;Вами обсудим задачи, которые стоят перед Вами и&nbsp;вашей компанией, рассмотрим подходы к&nbsp;их&nbsp;решению и&nbsp;определим приемлемую для Вас форму сотрудничества.</small></h2>
+                </div>
+              </div>
+              <div class="row text-center last-row">
+                <div class="col">
+                  <Grform 
+                    campaign_token="1"
+                  />
+                </div>
+              </div>
+              <div class="row text-center">
+                <div class="col">
+                  <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
     <div class="container">
       <div class="row last-row">
-        <div class="col-lg-8">
+        <div class="col-lg-8 mt-3 mt-lg-0">
           <p>У&nbsp;большинства руководителей существует острая необходимость в&nbsp;повышении управленческой квалификации, но&nbsp;нет времени на&nbsp;обучение.</p>
           <p>Мы&nbsp;решаем эту проблему крайне эффективно. Для этого мы&nbsp;вместе с&nbsp;руководителем определяем приоритетные направления индивидуального обучения и&nbsp;составляем программу. Программа ориентирована прежде всего на&nbsp;решение практических задач, стоящих перед руководителем в&nbsp;его работе.</p>
           <p>Обучение проходит в&nbsp;форме бесед в&nbsp;очной форме или в скайпе, просмотре специально отобранных видеоматериалов и&nbsp;чтении подборки статей. Результатом изучения каждой темы являются выводы о практическом применении полученных знаний и&nbsp;план внедрения в&nbsp;деятельность руководителя новых методов и&nbsp;технологий. В&nbsp;ходе практического освоения новых знаний мы&nbsp;проводим обсуждение результатов&nbsp;и, по мере необходимости, вносим корректировки.</p>
         </div>
-        <div class="col-lg-4 mt-3 mt-lg-0 mp-is-usefull-block">&nbsp;</div>
+        <div class="col-lg-4 mt-3 mt-lg-0"><img src="../assets/01.jpg" class="img-fluid"></div>
       </div>
       <div class="row text-center last-row">
         <div class="col-lg-6 offset-lg-3">
@@ -182,29 +198,37 @@
           </div>
         </div>
       </div>
-      <div class="row text-center">
+      <div class="row last-row">
         <div class="col">
-          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
-        </div>
-      </div>
-      <div class="row text-center last-row">
-        <div class="col">
-          <Grform 
-            campaign_token="1"
-          />
-        </div>
-      </div>
-      <div class="row last-row text-center">
-        <div class="col">
-          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+          <div class="card">
+            <div class="card-body">
+              <div class="row text-center">
+                <div class="col">
+                  <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+                </div>
+              </div>
+              <div class="row text-center last-row">
+                <div class="col">
+                  <Grform 
+                    campaign_token="1"
+                  />
+                </div>
+              </div>
+              <div class="row text-center">
+                <div class="col">
+                  <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
     <div class="container">
       <div class="row last-row">
-        <div class="col-lg-4 mt-3 mt-lg-0 mp-is-usefull-block">&nbsp;</div>
-        <div class="col-lg-8">
+        <div class="col-lg-4 mt-3 mt-lg-0"><img src="../assets/02.jpg" class="img-fluid"></div>
+        <div class="col-lg-8 mt-3 mt-lg-0">
           <p>Нередко собственники компаний сталкиваются с&nbsp;ситуациями, требующими выработки стратегических решений, когда нужно посоветоваться с&nbsp;опытным экспертом.</p>
           <p>Мой опыт дает возможность рассмотреть проблему в различных проекциях и&nbsp;дать примеры ее&nbsp;решения, полученные в&nbsp;ходе работы со&nbsp;многими компаниями различных отраслей.</p>
           <p>Стратегические решения являются наиболее трудными, поскольку требуют отказаться от&nbsp;привычных подходов и сделать шаг в&nbsp;неизвестное. В&nbsp;такие моменты экспертная поддержка становится наиболее ценной и&nbsp;наиболее востребованной.</p>
@@ -219,33 +243,41 @@
           </div>
         </div>
       </div>
-      <div class="row text-center">
+      <div class="row last-row">
         <div class="col">
-          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
-        </div>
-      </div>
-      <div class="row text-center last-row">
-        <div class="col">
-          <Grform 
-            campaign_token="1"
-          />
-        </div>
-      </div>
-      <div class="row last-row text-center">
-        <div class="col">
-          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+          <div class="card">
+            <div class="card-body">
+              <div class="row text-center">
+                <div class="col">
+                  <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+                </div>
+              </div>
+              <div class="row text-center last-row">
+                <div class="col">
+                  <Grform 
+                    campaign_token="1"
+                  />
+                </div>
+              </div>
+              <div class="row text-center">
+                <div class="col">
+                  <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
     <div class="container">
       <div class="row last-row">
-        <div class="col-lg-8">
+        <div class="col-lg-8 mt-3 mt-lg-0">
           <p>Руководители, решившиеся на&nbsp;проведение серьезных изменений в&nbsp;организационной структуре и&nbsp;рабочих процессах компании, встречают на&nbsp;своем пути множество препятствий и&nbsp;нестандартных ситуаций.</p>
           <p>В&nbsp;таких ситуациях я&nbsp;выступаю &laquo;проводником&raquo; по организационным изменениям. Мы&nbsp;с&nbsp;руководителем компании разрабатываем план преобразований, тщательно продумываем каждый шаг его реализации, обсуждаем результаты, вносим коррективы.</p>
           <p>Такая форма наставничества помогает многократно снизить риски подобных проектов и&nbsp;приобрести ценные навыки в&nbsp;решении задач организационного развития.</p>
         </div>
-        <div class="col-lg-4 mt-3 mt-lg-0 mp-is-usefull-block">&nbsp;</div>
+        <div class="col-lg-4 mt-3 mt-lg-0"><img src="../assets/usefull.jpg" class="img-fluid"></div>
       </div>
       <div class="row text-center last-row">
         <div class="col-lg-6 offset-lg-3">
@@ -256,29 +288,37 @@
           </div>
         </div>
       </div>
-      <div class="row text-center">
+      <div class="row last-row">
         <div class="col">
-          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
-        </div>
-      </div>
-      <div class="row text-center last-row">
-        <div class="col">
-          <Grform 
-            campaign_token="1"
-          />
-        </div>
-      </div>
-      <div class="row last-row text-center">
-        <div class="col">
-          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+          <div class="card">
+            <div class="card-body">
+              <div class="row text-center">
+                <div class="col">
+                  <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+                </div>
+              </div>
+              <div class="row text-center last-row">
+                <div class="col">
+                  <Grform 
+                    campaign_token="1"
+                  />
+                </div>
+              </div>
+              <div class="row text-center">
+                <div class="col">
+                  <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
     <div class="container">
       <div class="row last-row">
-        <div class="col-lg-4 mt-3 mt-lg-0 mp-is-usefull-block">&nbsp;</div>
-        <div class="col-lg-8">
+        <div class="col-lg-4 mt-3 mt-lg-0"><img src="../assets/03.jpg" class="img-fluid"></div>
+        <div class="col-lg-8 mt-3 mt-lg-0">
           <p>В&nbsp;работе каждого руководителя случаются ситуации, когда &laquo;все идет не&nbsp;так&raquo;: показатели компании не&nbsp;радуют, происходит непонятное &laquo;торможение&raquo;, теряется управляемость, нарастает груз нерешенных проблем.</p>
           <p>Чтобы распутать этот &laquo;узел&raquo;, найти ниточку, которая выведет компанию из&nbsp;тупика на&nbsp;путь динамичного развития, нужен свежий взгляд, дельный совет опытного управленца.</p>
           <p>В&nbsp;таких ситуациях мы&nbsp;с&nbsp;вместе с&nbsp;собственником и&nbsp;его командой подробно рассматриваем все стороны проблемной ситуации, находим ключевые звенья, на&nbsp;которые необходимо воздействовать в&nbsp;первую очередь, и&nbsp;вырабатываем план решения приоритетных задач.</p>
@@ -294,23 +334,31 @@
           </div>
         </div>
       </div>
-      <div class="row text-center">
+      <div class="row last-row">
         <div class="col">
-          <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
-        </div>
-      </div>
-      <div class="row text-center last-row">
-        <div class="col">
-          <Grform 
-            campaign_token="1"
-          />
+          <div class="card">
+            <div class="card-body">
+              <div class="row text-center">
+                <div class="col">
+                  <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
+                </div>
+              </div>
+              <div class="row text-center">
+                <div class="col">
+                  <Grform 
+                    campaign_token="1"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
     <div class="container">
-      <div class="row text-center" ref="join-block">
-        <div class="col" style="margin-top:30px">
+      <div class="row text-center mt-5" ref="join-block">
+        <div class="col">
           <h2>Заказать платное обучение</h2>
         </div>
       </div>
@@ -541,10 +589,6 @@ h2 {
   background-image: url("../assets/mp.jpg");
   background-size: cover;
   min-height: 150px;
-}
-.mp-is-usefull-block {
-  background-image: url("../assets/usefull.jpg");
-  background-size: cover;
 }
 
 
