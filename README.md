@@ -1,4 +1,4 @@
-# imarathonDB
+# iPersonalTraining
 
 > special project for personal training
 
