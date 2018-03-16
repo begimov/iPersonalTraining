@@ -5,8 +5,9 @@
         <div class="row">
           <div class="col"><img src="../assets/logo.png" class="logo" width="110"></div>
         </div>
-        <h1 class="display-3 d-none d-sm-block text-uppercase"><strong>Персональное обучение и&nbsp;коучинг руководителей</strong></h1>
+        <h1 class="header-title display-4 d-none d-sm-block text-uppercase"><strong>Персональное обучение и&nbsp;коучинг руководителей</strong></h1>
         <h1 class="display-5 d-sm-none text-uppercase">Персональное обучение и&nbsp;коучинг руководителей</h1>
+        <a href="#" class="btn btn-danger btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать</a>
       </div>
     </div>
 
@@ -29,11 +30,11 @@
           <h2>Мы&nbsp;предлагаем Вам помощь Александра Кочнева, управляющего партнера консалтинговой компании iTeam.</h2>
         </div>
       </div>
-      <div class="row last-row mt-3">
-        <div class="col-md-3">
+      <div class="row last-row">
+        <div class="col-md-3 mt-3">
           <img class="img-fluid" src="../assets/kochnev.jpg">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-9 mt-3">
           <ul>
             <li>Наставник и&nbsp;коуч собственников компаний с&nbsp;2002 года</li>
             <li>Руководитель 200+ консалтинговых проектов</li>
