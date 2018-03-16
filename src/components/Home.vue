@@ -328,8 +328,8 @@
               <Payment
                 WMI_PAYMENT_AMOUNT="28000"
                 WMI_DESCRIPTION="iTeam"
-                WMI_SUCCESS_URL="https://iteam.ru/promo/processes"
-                WMI_FAIL_URL="https://iteam.ru/promo/processes"
+                WMI_SUCCESS_URL="https://iteam.ru/promo/personaltraining"
+                WMI_FAIL_URL="https://iteam.ru/promo/personaltraining"
                 campaign_token="2"
                 product_name="ПАКЕТ «ЛАЙТ»"
               />
@@ -350,8 +350,8 @@
               <Payment
                 WMI_PAYMENT_AMOUNT="80000"
                 WMI_DESCRIPTION="iTeam"
-                WMI_SUCCESS_URL="https://iteam.ru/promo/processes"
-                WMI_FAIL_URL="https://iteam.ru/promo/processes"
+                WMI_SUCCESS_URL="https://iteam.ru/promo/personaltraining"
+                WMI_FAIL_URL="https://iteam.ru/promo/personaltraining"
                 campaign_token="3"
                 product_name="ПАКЕТ «БАЗОВЫЙ»"
               />
