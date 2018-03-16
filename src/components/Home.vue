@@ -5,12 +5,12 @@
         <div class="row">
           <div class="col"><img src="../assets/logo.png" class="logo" width="110"></div>
         </div>
-        <p class="header-title lead">МАСТЕР-ПРОЕКТ</p>
-        <h1 class="display-3 d-none d-sm-block text-uppercase"><strong>Создание системы управления процессами</strong></h1>
-        <h1 class="display-5 d-sm-none text-uppercase">Создание системы управления процессами</h1>
-        <p class="lead header-date">14 мастер-классов + 50 шаблонов + консультации!</p>
-        <p class="lead"><span class="badge badge-light">Старт 29&nbsp;марта 2018 года</span></p>
-        <a href="#" class="btn btn-danger btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Участвовать</a>
+        <!-- <p class="header-title lead">МАСТЕР-ПРОЕКТ</p> -->
+        <h1 class="display-3 d-none d-sm-block text-uppercase"><strong>Персональное обучение и&nbsp;коучинг руководителей</strong></h1>
+        <h1 class="display-5 d-sm-none text-uppercase">Персональное обучение и&nbsp;коучинг руководителей</h1>
+        <!-- <p class="lead header-date">14 мастер-классов + 50 шаблонов + консультации!</p> -->
+        <!-- <p class="lead"><span class="badge badge-light">Старт 29&nbsp;марта 2018 года</span></p> -->
+        <!-- <a href="#" class="btn btn-danger btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Участвовать</a> -->
       </div>
     </div>
 
