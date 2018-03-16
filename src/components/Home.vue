@@ -239,7 +239,7 @@
           <h5>Артем Агабеков, собственник компании &laquo;Фабрика Окон&raquo;</h5>
           <!-- <p><a href="http://neofood.de/" target="_blank"><img src="https://iteam.ru/landing/template/img/logo_neofood.png" class="img-fluid rounded"></a></p> -->
           <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/U4QFO0ILnmE" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/WWzZ19ZCCE8" frameborder="0" allowfullscreen></iframe>
           </div>
         </div>
       </div>
