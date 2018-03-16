@@ -50,7 +50,7 @@
           <h2>Подать заявку на&nbsp;бесплатную консультацию с&nbsp;Александром Кочневым</h2>
         </div>
       </div>
-      <div class="row text-center last-row ">
+      <div class="row text-center last-row">
         <div class="col">
           <Grform 
             campaign_token="1"
@@ -142,6 +142,23 @@
             <div class="embed-responsive embed-responsive-16by9" style="margin-bottom:30px;">
               <iframe width="560" height="315" src="https://www.youtube.com/embed/Rp4Jh-DP7is" frameborder="0" allowfullscreen></iframe>
             </div>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col">
+          <h2>Закажите бесплатную консультацию, и&nbsp;мы&nbsp;с&nbsp;Вами обсудим задачи, которые стоят перед Вами и&nbsp;вашей компанией, рассмотрим подходы к&nbsp;их&nbsp;решению и&nbsp;определим приемлемую для Вас форму сотрудничества.</h2>
+        </div>
+      </div>
+      <div class="row text-center last-row">
+        <div class="col">
+          <Grform 
+            campaign_token="1"
+          />
+        </div>
+      </div>
+      <div class="row last-row text-center">
+        <div class="col">
+          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
         </div>
       </div>
     </div>
