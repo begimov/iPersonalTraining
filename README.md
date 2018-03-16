@@ -1,6 +1,6 @@
 # imarathonDB
 
-> special project for bussiness processes product
+> special project for personal training
 
 ## Build Setup
 
