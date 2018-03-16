@@ -305,11 +305,6 @@
           />
         </div>
       </div>
-      <div class="row last-row text-center">
-        <div class="col">
-          <a href="#" class="btn btn-primary btn-lg text-uppercase" @click.prevent="scrollMeTo('join-block')">Заказать платное обучение</a>
-        </div>
-      </div>
     </div>
 
     <div class="container">
@@ -319,59 +314,50 @@
         </div>
       </div>
       <div class="row last-row text-center">
-        
-        <div class="col-xl-3 col-md-6 mt-2">
+        <div class="col-md-6 mt-2">
           <div class="card h-100">
             <div class="card-header bg-primary text-light">
-              <span style="font-size: 0.8em;">&nbsp;</span><br>
-              <span class="lead"><strong>ПАКЕТ &laquo;ЛАЙТ&raquo;</strong></span><br>
-              <span class="lead"><strong>&nbsp;</strong></span>
+              <span class="lead"><strong>ПАКЕТ &laquo;ЛАЙТ&raquo;</strong></span>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item">Участие в мастер-классах.</li>
-              <li class="list-group-item">Записи мастер-классов.</li>
+              <li class="list-group-item">Отдельная консультация продолжительностью 1,5 часа</li>
             </ul>
             <div class="card-body"></div>
             <div class="card-footer bg-white border-top-0 pb-3">
-              <h2><span class="badge badge-primary">12&thinsp;000&nbsp;&#8381;</span></h2>
+              <h2><span class="badge badge-primary">28&thinsp;000&nbsp;&#8381;</span></h2>
               <Payment
-                WMI_PAYMENT_AMOUNT="12000"
+                WMI_PAYMENT_AMOUNT="28000"
                 WMI_DESCRIPTION="iTeam"
                 WMI_SUCCESS_URL="https://iteam.ru/promo/processes"
                 WMI_FAIL_URL="https://iteam.ru/promo/processes"
-                campaign_token="nlaW6"
+                campaign_token="2"
                 product_name="ПАКЕТ «ЛАЙТ»"
               />
             </div>
           </div>
         </div>
-
-        <div class="col-xl-3 col-md-6 mt-2">
+        <div class="col-md-6 mt-2">
           <div class="card border-danger card-accent h-100">
             <div class="card-header bg-danger text-light">
-              <span class="lead"><strong>ПАКЕТ &laquo;БАЗОВЫЙ&raquo;</strong></span><br>
-              <span class="badge badge-warning" style="font-size: 0.8em;">Включает ПАКЕТ &laquo;ЛАЙТ&raquo;</span><br>
-              <span class="lead"><strong>+</strong></span>
+              <span class="lead"><strong>ПАКЕТ &laquo;БАЗОВЫЙ&raquo;</strong></span>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item">Презентационные материалы.</li>
-              <li class="list-group-item">Методические материалы, шаблоны, образцы документов.</li>
+              <li class="list-group-item">Цикл из 4 консультаций продолжительностью 1,5 часа каждая</li>
             </ul>
             <div class="card-body"></div>
             <div class="card-footer bg-white border-top-0 pb-3">
-              <h2><span class="badge badge-primary">40&thinsp;000&nbsp;&#8381;</span></h2>
+              <h2><span class="badge badge-primary">80&thinsp;000&nbsp;&#8381;</span></h2>
               <Payment
-                WMI_PAYMENT_AMOUNT="40000"
+                WMI_PAYMENT_AMOUNT="80000"
                 WMI_DESCRIPTION="iTeam"
                 WMI_SUCCESS_URL="https://iteam.ru/promo/processes"
                 WMI_FAIL_URL="https://iteam.ru/promo/processes"
-                campaign_token="pu9s"
+                campaign_token="3"
                 product_name="ПАКЕТ «БАЗОВЫЙ»"
               />
             </div>
           </div>
         </div>
-    
       </div>
 
       <div class="row text-center">
@@ -380,16 +366,7 @@
         </div>
       </div>
       <div class="row text-center last-row">
-        <div class="col-md-6">
-          //
-        </div>
-        <div class="col-md-6">
-          //
-        </div>
-        <div class="col-md-6">
-          //
-        </div>
-        <div class="col-md-6">
+        <div class="col">
           //
         </div>
       </div>
